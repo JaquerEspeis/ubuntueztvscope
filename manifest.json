@@ -1,0 +1,15 @@
+{
+    "name": "ubuntuscopeeztv.elopio",
+    "description": "YouTube DT",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "YouTube DT",
+    "hooks": {
+        "ubuntuscopeeztv": {
+            "scope": "ubuntuscopeeztv",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Your Name <yourname@packagedomain>"
+}
