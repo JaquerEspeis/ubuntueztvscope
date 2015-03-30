@@ -1,9 +1,9 @@
 {
     "name": "ubuntuscopeeztv.elopio",
-    "description": "YouTube DT",
+    "description": "Scope for the EZTV torrent distribution group.",
     "framework": "ubuntu-sdk-14.10",
     "architecture": "armhf",
-    "title": "YouTube DT",
+    "title": "EZTV",
     "hooks": {
         "ubuntuscopeeztv": {
             "scope": "ubuntuscopeeztv",
@@ -11,5 +11,5 @@
         }
     },
     "version": "0.1",
-    "maintainer": "Your Name <yourname@packagedomain>"
+    "maintainer": "leo.arias@canonical.com"
 }
